@@ -8,3 +8,5 @@ Hoisting is a JavaScript mechanism that recognizes variables and function declar
 let: when you won't redeclare within the scope
 const: when the value won't change
 var: when you want to redeclare 
+
+https://annietberry.github.io/javascript-chall/
