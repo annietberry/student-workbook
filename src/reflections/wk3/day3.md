@@ -5,3 +5,4 @@
 # What are some of the benefits of the proxy object that we are using in our structure for applications?
 
 GREGS LIST LINK
+ https://annietberry.github.io/summer21-gregslist-v1/
