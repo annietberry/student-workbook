@@ -7,3 +7,5 @@ arrow function expression: do not create their own this value
 Parameters are used when defining a function whereas arguments are passed in when invoking the function. 
 # What are higher order functions? Can you provide an example? 
 higher order functions are funcions that operate on other functions, either as an argument or return. An example of this would be function greeting(hello())
+
+https://annietberry.github.io/cool-site/
