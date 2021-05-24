@@ -36,7 +36,7 @@ staff[property]
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
-```
+```A proxy object wraps another object and takes that objects operations. 
 
 ```
 
